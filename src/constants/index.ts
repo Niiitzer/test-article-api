@@ -1,0 +1,3 @@
+const MIN_QUERY_FIELD_LENGTH = 6;
+
+export { MIN_QUERY_FIELD_LENGTH };
